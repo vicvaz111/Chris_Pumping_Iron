@@ -3,9 +3,9 @@
   --fg: #1a1a1a;
   --muted: #6b6b6b;
   /* Pastel purple palette */
-  --primary: #c4b5fd; /* pastel purple */
-  --primary-600: #a78bfa;
-  --primary-700: #8067b9;
+  --primary: #a7c7ff;    /* pastel blue */
+  --primary-600: #7ea6f9; 
+  --primary-700: #5c7ec2; 
   --surface: #f7f6ff;
   --danger: #e74c3c;
   --shadow: rgba(0,0,0,0.12);
